@@ -1,5 +1,3 @@
-# ReadMe Template
-
 # ansible_terraform_aws
 
 ![Image of terraform aws](imgs/terraform_gcp.png)
